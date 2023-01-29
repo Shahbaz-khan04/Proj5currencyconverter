@@ -1,0 +1,21 @@
+{
+  "name": "proj5currencyconverter",
+  "version": "1.0.0",
+  "description": "currency converter",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["currencyconverter"],
+  "author": "Shahbaz Khan",
+  "license": "ISC",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
